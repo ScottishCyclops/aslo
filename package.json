@@ -1,0 +1,31 @@
+{
+  "name": "aslo",
+  "version": "1.0.0",
+  "description": "Async for, foreach (array and object), while, do while loops",
+  "main": "aslo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottishCyclops/aslo.git"
+  },
+  "keywords": [
+    "async",
+    "loop",
+    "for",
+    "foreach",
+    "do",
+    "while",
+    "promise"
+  ],
+  "author": "Scott Winkelmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottishCyclops/aslo/issues"
+  },
+  "homepage": "https://github.com/ScottishCyclops/aslo#readme",
+  "dependencies": {
+    "fnif": "^1.0.0"
+  }
+}
